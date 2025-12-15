@@ -1,0 +1,15 @@
+{
+    "id": "staily",
+    "name": "Staily",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "staily.net",
+        "mc.staily.net"
+    ],
+    "primaryAddress": "staily.net",
+    "minecraftVersions": [
+        "1.8.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9"
+}
