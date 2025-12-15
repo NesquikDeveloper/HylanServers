@@ -1,0 +1,15 @@
+{
+    "id": "hylex",
+    "name": "Hylex",
+    "description": "Home of Competitive Minecraft PvP",
+    "addresses": [
+        "hylex.gg",
+        "pirata.hylex.gg"
+    ],
+    "primaryAddress": "hylex.gg",
+    "minecraftVersions": [
+        "1.7.*",
+        "1.21.*"
+    ],
+    "primaryMinecraftVersion": "1.8.9"
+}
